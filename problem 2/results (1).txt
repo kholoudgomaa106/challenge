@@ -1,0 +1,1 @@
+[{'object_id': 0, 'width': 78, 'height': 78}, {'object_id': 1, 'width': 97, 'height': 97}]
