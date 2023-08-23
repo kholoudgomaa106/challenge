@@ -3,7 +3,7 @@ Objective: Extract image name, size, and modification date for each image in a f
 
 Documentation:
 
-  1- Ensure you have Python installed on your system.
+  1- Ensure you have Python installed on your system.\n
   2- Place the images you want to process in the specified image folder (update the image_folder path in the code).
   3- Run the provided Python script.
   4- The script will iterate through the images in the folder and gather information about each image (name, size, and modification date).
